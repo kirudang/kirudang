@@ -5,7 +5,7 @@
 [medium]: https://medium.com/@kirudang
 
 
-### Data Scientist and Machine Learning Engineer, responsible for building models and deploying them on the cloud.
+### Data Scientist and Machine Learning Engineer with specialization in NLP, Time Series.
 
 - I have a strong background in statistics, mathematics, and computer science, which allows me to leverage various tools and technologies to analyze complex datasets and extract insights.
 
@@ -16,15 +16,12 @@ If you enjoy my content, I would be very happy if you [subscribe](https://medium
 
 ---
 
-## Connect With Me:
+## My Contact:
 
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-
+- Email: dangvankieu.ftu2@gmail.com
+- LinkedIn: linkedin.com/in/kirudang
+- GitHub: github.com/kirudang
+- Medium: medium.com/@kirudang
 <br />
 
 ---
