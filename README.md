@@ -19,9 +19,9 @@ If you enjoy my content, I would be very happy if you [subscribe](https://medium
 ## My Contact:
 
 - Email: dangvankieu.ftu2@gmail.com
-- LinkedIn: linkedin.com/in/kirudang
-- GitHub: github.com/kirudang
-- Medium: medium.com/@kirudang
+- LinkedIn: https://linkedin.com/in/kirudang
+- GitHub: https://github.com/kirudang
+- Medium: https://medium.com/@kirudang
 <br />
 
 ---
