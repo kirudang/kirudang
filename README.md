@@ -5,12 +5,7 @@
 [medium]: https://medium.com/@kirudang
 
 
-### Data Scientist and Machine Learning Engineer with specialization in NLP, Time Series.
-
-- I have a strong background in statistics, mathematics, and computer science, which allows me to leverage various tools and technologies to analyze complex datasets and extract insights.
-
-- My expertise in machine learning and artificial intelligence enables me to design and develop predictive models that can make accurate predictions and provide valuable insights to businesses.
--  I am also skilled in deploying these models on cloud platforms such as AWS, Google Cloud, and Microsoft Azure, which helps to ensure scalability, availability, and performance of the models.
+### I am a PhD student in Machine Learning and AI in New York, focusing my research on the Privacy, Robustness, and Security of Large Language Models.
 
 If you enjoy my content, I would be very happy if you [subscribe](https://medium.com/@kirudang) to my channel 😊
 
