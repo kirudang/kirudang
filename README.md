@@ -6,7 +6,7 @@
 
 ### Delving Deep into Machine Learning and AI
 
-I'm Kiel, a passionate PhD student exploring the realms of Machine Learning and AI in New York, USA. My research revolves around enhancing the Privacy, Robustness, and Security of Large Language Models.
+I'm Kiel, a passionate PhD student exploring the realms of Machine Learning and AI in New York, USA. My research revolves around enhancing the Privacy, Robustness, and Security of AI and Machine Learning, with focus on Large Language Models.
 
 Dive into my insights and discoveries on my [Medium channel](https://medium.com/@kirudang). Your subscription would mean the world to me! 😊
 
